@@ -1,1 +1,10 @@
-!
+body {
+  font-family: sans-serif;
+}
+.imgnav {
+  width: 10%;
+}
+hr {
+  border-color: orangered;
+  color: orangered;
+}
