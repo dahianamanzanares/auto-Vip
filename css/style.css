@@ -5,6 +5,7 @@ body {
   width: 10%;
 }
 hr {
-  border-color: orangered;
   color: orangered;
+  background-color: orangered;
+  border-color: orangered;
 }
