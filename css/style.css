@@ -4,8 +4,17 @@ body {
 .imgnav {
   width: 10%;
 }
-hr {
+.barranav {
   color: orangered;
+  border: 1px solid orangered;
   background-color: orangered;
-  border-color: orangered;
+}
+.filtro {
+  border: 1rem;
+}
+.nuevo {
+  background-color: orangered;
+}
+.filtrar {
+  background-color: orangered;
 }
