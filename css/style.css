@@ -25,3 +25,7 @@ body {
   background-color: rgb(33, 163, 33);
   color: aliceblue;
 }
+a {
+  text-decoration: none;
+  color: aliceblue;
+}
