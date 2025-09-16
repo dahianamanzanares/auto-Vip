@@ -1,0 +1,22 @@
+.icono {
+  width: 20px;
+}
+.letra {
+  font-family: sans-serif;
+}
+.barranav {
+  color: orangered;
+  border: 1px solid orangered;
+  background-color: orangered;
+}
+.filtro {
+  border: 1rem;
+}
+
+.margen {
+  margin-top: 50px;
+}
+
+.margen2 {
+  margin-top: 30px;
+}
