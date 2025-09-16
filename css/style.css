@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+}
+.imgnav {
+  width: 10%;
+}
+.barranav {
+  color: orangered;
+  border: 1px solid orangered;
+  background-color: orangered;
+}
+.filtro {
+  border: 1rem;
+}
+.nuevo {
+  background-color: orangered;
+}
+.filtrar {
+  background-color: orangered;
+}
+.footer {
+  background-color: black;
+}
+.comprar {
+  background-color: rgb(33, 163, 33);
+  color: aliceblue;
+}
